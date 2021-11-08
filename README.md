@@ -5,5 +5,4 @@
  - 💬 Ask me about Full Stack web development
  - 📫 How to reach me: (LinkedIn) => { https://www.linkedin.com/in/ansarishadman22/ }
 
-### GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api/?username=ansarishadman&count_private=true&theme=tokyonight&showicons=true">
