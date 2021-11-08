@@ -6,3 +6,4 @@
  - 📫 How to reach me: (LinkedIn) => { https://www.linkedin.com/in/ansarishadman22/ }
 
 <img src="https://github-readme-stats.vercel.app/api/?username=ansarishadman&count_private=true&theme=tokyonight&showicons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansarishadman&langs_count=8&layout=compact&theme=tokyonight">
